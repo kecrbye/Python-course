@@ -1,2 +1,2 @@
 # Python-course
-Repo for study at MGPU
+Репозиторий для сдачи практический заданий по курсу Python для анализа данных МГПУ. 
