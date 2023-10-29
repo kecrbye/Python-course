@@ -1,6 +1,8 @@
 # Python-course
 Репозиторий для сдачи практический заданий по курсу Python для анализа данных МГПУ. 
 
+Данные, который могут потребоваться в блокнотах можно найти на [Google-диске](https://drive.google.com/drive/folders/118yusE2h3T2r1FI9eiPp06vVEXdJlvzS). 
+
 Самостоятельные работы:
 - [Самостоятельная работа №1](https://github.com/kecrbye/Python-course/blob/main/homeworks/Task_1.ipynb)
 - [Самостоятельная работа №2](https://github.com/kecrbye/Python-course/blob/main/homeworks/Task_2.ipynb)
