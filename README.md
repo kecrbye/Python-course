@@ -8,6 +8,7 @@
 - [Самостоятельная работа №2](https://github.com/kecrbye/Python-course/blob/main/homeworks/Task_2.ipynb)
 - [Самостоятельная работа №3](https://github.com/kecrbye/Python-course/blob/main/homeworks/Task_3.ipynb)
 - [Самостоятельная работа №4](https://github.com/kecrbye/Python-course/blob/main/homeworks/Task_4.ipynb)
+- [Самостоятельная работа №5](https://github.com/kecrbye/Python-course/blob/main/homeworks/Task_5.ipynb)
 
 Практические работы:
 - [Практическая работа №1](https://github.com/kecrbye/Python-course/blob/main/practical/P_task_1.ipynb)
